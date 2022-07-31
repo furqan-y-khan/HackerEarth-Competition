@@ -1,14 +1,14 @@
 Property_ID			   False done
 Property_Type             False done
-Property_Area             False
-Number_of_Windows          True
+Property_Area             False done
+Number_of_Windows          True 1654
 Number_of_Doors           False done
-Furnishing                 True
-Frequency_of_Powercuts     True
-Power_Backup              False
-Water_Supply              False
+Furnishing                 True 1042
+Frequency_of_Powercuts     True 1383
+Power_Backup              False 828
+Water_Supply              False 345
 Traffic_Density_Score     False done
-Crime_Rate                 True
-Dust_and_Noise             True
+Crime_Rate                 True 787
+Dust_and_Noise             True 1219
 Air_Quality_Index         False done
 Neighborhood_Review       False done
