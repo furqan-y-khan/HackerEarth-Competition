@@ -5,10 +5,10 @@ Number_of_Windows          True 1654
 Number_of_Doors           False done
 Furnishing                 True 1042
 Frequency_of_Powercuts     True 1383
-Power_Backup              False 828
-Water_Supply              False 345
+Power_Backup              False done
+Water_Supply              False done
 Traffic_Density_Score     False done
-Crime_Rate                 True 787
+Crime_Rate                 True Done
 Dust_and_Noise             True 1219
 Air_Quality_Index         False done
 Neighborhood_Review       False done
